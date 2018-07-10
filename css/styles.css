@@ -1,0 +1,290 @@
+ .media
+  {padding: 0;
+height: 850px;
+width:100%;
+background-image:url("../images/ip2/assets/backgrounds/landing.jpg");
+background-repeat: no-repeat;
+background-position: center center;
+background-attachment: fixed;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+margin-top: 70px;
+}
+.overlay{
+padding: 0;
+margin: auto;
+width: 100%;
+height: 850px;
+background: black;
+background:rgba(0,0,0,0.0);
+}
+.header{
+margin-top: 3%;
+text-align: center;
+font-family: 'Handlee', Open Sans;
+color: white;
+font-size: 60px;
+}
+.men{
+margin-top: 20px;
+margin-left: 20px;
+background-color: transparent;
+height: 50px;
+width: 75px;
+}
+.navIcon{
+   font-size:50px;
+   cursor:pointer;
+   color:#ffffff;
+}
+.overlayMenu {
+height: 100%;
+width: 0;
+position: fixed;
+z-index: 1;
+top: 0;
+left: 0;
+background-color: #F15A29;
+overflow-x: hidden;
+transition: 0.5s;
+}
+#view{
+  color: #F15A29 ;
+}
+.overlay-content {
+position: relative;
+top: 25%;
+width: 100%;
+text-align: center;
+margin-top: 30px;
+}
+.overlayMenu a {
+padding: 8px;
+text-decoration: none;
+font-size: 36px;
+color: #000000;
+display: block;
+transition: 0.3s;
+}
+
+.overlayMenu a:hover, .overlayMenu a:focus {
+color: #f1f1f1;
+}
+
+.overlayMenu .closebtn {
+position: absolute;
+top: 20px;
+right: 45px;
+font-size: 60px;
+}
+
+.header{
+font-family: 'Lobster', cursive;
+}
+.logo{
+  text-align: center;
+
+}
+span{
+  font-size:50px;
+  cursor:pointer;
+  color:#ffffff;
+}
+#party{
+  color: white;
+  background-color: #F15A29;
+  padding: 10px;
+}
+#happy{
+  color: white;
+  background-color: grey;
+  padding: 10px;
+}
+.container-fluid{
+  padding: 0px;
+}
+.bg-1{
+  padding: 0;
+}
+.bg-10{
+  padding: 0;
+}
+.bgFoods{
+  background-image:url(../images/ip2/assets/backgrounds/foodsBg.jpg);
+  padding: 0;
+  height: 600px;
+  width:100%;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+}
+.foods{
+  height: 400px;
+  width: 80%;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-left: 10%;
+  margin-right: 10%;
+  background-color: #ffffff;
+}
+.foodsHead{
+height: 50px;
+width: 100%;
+background-color: #ccc;
+}
+#burger{
+text-align: center;
+padding: 50px;
+}
+.fast{
+  margin-bottom: 10%;
+  margin-left: 30%;
+  margin-right: 0%;
+  margin-top: 5%;
+  padding: 0px;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 15px;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+.faster{
+  display: flex;
+  margin-bottom: 10%;
+  margin-left: 0%;
+  margin-right: 30%;
+  margin-top: 5%;
+  padding: 0px;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 15px;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+.Paragraph1{
+  padding: 5%;
+  text-align: left;
+}
+.Paragraph2{
+  padding: 5%;
+  text-align: right;
+}
+
+.customerAbout{
+  width: 80%;
+  margin-top: 10%;
+  margin-bottom: 10%;
+  margin-left: 10%;
+  margin-right: 10%;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px;
+  border-radius: 5px;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+#articleh2{
+  color:#F15A29;
+}
+#article{
+  padding: 5%;
+  text-align: center;
+}
+.bgMail{
+  padding: 0;
+  height: 300px;
+  width:100%;
+  background-image: url(../images/ip2/assets/backgrounds/subscribe.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+}
+.mailText{
+  text-align: center;
+  margin-top: 2%;
+  color: #ffffff;
+}
+.mail{
+text-align: center;
+height: 200px;
+width: 80%;
+margin-top: 20px;
+margin-bottom: 30px;
+margin-left: 10%;
+margin-right: 10%;
+background-color: transparent;
+}
+.footer{
+padding: 0;
+height: 300px;
+width:100%;
+background-color:#F15A29;
+}
+.social{
+text-align: center;
+margin-top: 3%;
+color: #ffffff;
+}
+#happy{
+  padding: 20px;
+  background-color: #9a9292 ;
+  text-align: center;
+  width: 320px;
+}
+
+#party{
+  padding: 20px;
+  background-color:#F15A29 ;
+  color: #FFFFFF ;
+  text-align: center;
+  width: 315px;
+ }
+#lunch:hover .overlay-row{
+  opacity: 3;
+}
+#dinner{
+   background-image: url(../images/ip2/assets/foodtop/dinner.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+   padding-bottom: 205.5px;
+ }
+ #dinner:hover .overlay-row{
+   opacity: 3;
+ }
+#breakfast{
+  background-image: url(../images/ip2/assets/foodtop/breakfast.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-bottom: 205.5px;
+}
+#lunch{
+  background-image: url(../images/ip2/assets/foodtop/lunch.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-bottom: 205.5px;
+}
+#breakfast:hover .overlay-row{
+  opacity: 3;
+}
+
+.overlay-row {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: #E5E5E5 ;
+  color: #FFFFFF ;
+  text-transform: capitalize;
+  font-size: 30px;
+}
+.text {
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
