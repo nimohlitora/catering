@@ -112,7 +112,11 @@ span{
   padding: 0;
 }
 .bgFoods{
+<<<<<<< HEAD
   background-image:url(../images/assets/backgrounds/foodsBg.jpg);
+=======
+  background-image:url(../images/ip2/assets/backgrounds/foodsBg.jpg);
+>>>>>>> master
   padding: 0;
   height: 600px;
   width:100%;
@@ -193,7 +197,11 @@ padding: 50px;
   padding: 0;
   height: 300px;
   width:100%;
+<<<<<<< HEAD
   background-image: url(../images/assets/backgrounds/subscribe.jpg);
+=======
+  background-image: url(../images/ip2/assets/backgrounds/subscribe.jpg);
+>>>>>>> master
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -242,7 +250,11 @@ color: #ffffff;
   opacity: 3;
 }
 #dinner{
+<<<<<<< HEAD
    background-image: url(../images/assets/foodtop/dinner.jpg);
+=======
+   background-image: url(../images/ip2/assets/foodtop/dinner.jpg);
+>>>>>>> master
    background-repeat: no-repeat;
    background-size: cover;
    padding-bottom: 205.5px;
@@ -251,13 +263,21 @@ color: #ffffff;
    opacity: 3;
  }
 #breakfast{
+<<<<<<< HEAD
   background-image: url(../images/assets/foodtop/breakfast.jpg);
+=======
+  background-image: url(../images/ip2/assets/foodtop/breakfast.jpg);
+>>>>>>> master
   background-repeat: no-repeat;
   background-size: cover;
   padding-bottom: 205.5px;
 }
 #lunch{
+<<<<<<< HEAD
   background-image: url(../images/assets/foodtop/lunch.jpg);
+=======
+  background-image: url(../images/ip2/assets/foodtop/lunch.jpg);
+>>>>>>> master
   background-repeat: no-repeat;
   background-size: cover;
   padding-bottom: 205.5px;
@@ -287,5 +307,9 @@ color: #ffffff;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
+<<<<<<< HEAD
   -ms-transform: translate(-50%, -50%);
 }
+=======
+  -ms-transform: translate(-50%, -50%);
+>>>>>>> master
