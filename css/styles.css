@@ -94,7 +94,7 @@ span{
 }
 #party{
   color: white;
-  background-color: #F15A29;
+  background-color: orange;
   padding: 10px;
 }
 #happy{
@@ -113,7 +113,7 @@ span{
 }
 .bgFoods{
 <<<<<<< HEAD
-  background-image:url(../images/assets/backgrounds/foodsBg.jpg);
+  background-image:url(../images/ip2/assets/backgrounds/foodsBg.jpg);
 =======
   background-image:url(../images/ip2/assets/backgrounds/foodsBg.jpg);
 >>>>>>> master
